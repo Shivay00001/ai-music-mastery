@@ -37,3 +37,8 @@ metadata = system.process(
 - `requests`
 - `pyrubberband` (optional, for quality time-stretching)
 - `pedalboard` (optional, for pro mastering)
+
+
+## Installation
+Follow standard installation steps for this language.
+
